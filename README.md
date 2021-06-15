@@ -1,8 +1,7 @@
-# Bootcamp DIO - MRV C#
+# Bootcamp DIO - MRV
 Resolução de exercícios realizados durante o bootcamp MRV .NET Developer
+## DIO.Serie
+- Projeto - Criando um APP simples de cadastro de séries em .NET.
 
-1. DIO.Serie
-Projeto - Criando um APP simples de cadastro de séries em .NET
-
-2. Revisão
-Projeto desenvolvido durante o treinamento de C#
+## Revisão
+- Projeto desenvolvido durante o treinamento de C#
